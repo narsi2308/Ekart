@@ -14,6 +14,6 @@ spec:
     spec:
       containers:
         - name: ekart
-          image: narsi23/ekart:5
+          image: narsi23/ekart
           ports:
             - containerPort: 8070 
